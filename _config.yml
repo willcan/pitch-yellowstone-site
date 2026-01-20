@@ -2,8 +2,8 @@
 title: Yellowstone Domes
 email: 
 description: Luxury Glamping Hotel in Paradise Valley
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/pitch-yellowstone-site"
+url: "https://willcan.github.io"
 
 twitter_username:
 github_username:
